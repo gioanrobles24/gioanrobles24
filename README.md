@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gioanrobles24
 - 👀 I’m interested in Mobile Development with React-native 
-- 🌱 I’m currently learning   Objective C
+- 🌱 I’m currently learning  Swift 
 - 💞️ 
 - 📫
 
